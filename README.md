@@ -1,4 +1,4 @@
 # RadioItems / Checklist comparison
 
-### Dash-py app 
+### DashR app 
 
